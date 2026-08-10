@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_17_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "24時間定期巡回・随時対応型訪問介護看護事業所ほがらかケア24【定期巡回・随時対応型訪問介護看護】石川県金沢市本江町12番10号", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1790100620-00&ServiceCd=760&Type=search", "url2": "http://www.kma.jp/yasuda/" }, "geometry": { "type": "Point", "coordinates": [ 136.632570200000032, 36.5685461 ] } },
+{ "type": "Feature", "properties": { "内容": "ミルス定期巡回・随時対応型訪問介護【定期巡回・随時対応型訪問介護看護】松村５丁目２番地桑沢ビル３０２号", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1790101412-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.6131106, 36.5907158 ] } },
+{ "type": "Feature", "properties": { "内容": "コールナウみんなの詩【定期巡回・随時対応型訪問介護看護】石川県輪島市堀町12字6番地", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1790400137-00&ServiceCd=760&Type=search", "url2": "http://www.swkouwa.com" }, "geometry": { "type": "Point", "coordinates": [ 136.892123800000036, 37.3949366 ] } },
+{ "type": "Feature", "properties": { "内容": "いまケア２４【定期巡回・随時対応型訪問介護看護】石川県加賀市作見町リ77萌和会介護サポートセンター　２階", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1790600314-00&ServiceCd=760&Type=search", "url2": "http://houwakai-g.com/" }, "geometry": { "type": "Point", "coordinates": [ 136.3502661, 36.3167299 ] } },
+{ "type": "Feature", "properties": { "内容": "コールナウ福の神【定期巡回・随時対応型訪問介護看護】石川県羽咋市四柳町つ17番地", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1790700106-00&ServiceCd=760&Type=search", "url2": "http://www.swkouwa.com" }, "geometry": { "type": "Point", "coordinates": [ 136.857936399999971, 36.9337234 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回随時対応型訪問介護看護　ひなの家押野【定期巡回・随時対応型訪問介護看護】石川県野々市市押野1丁目３１番地", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1791300054-00&ServiceCd=760&Type=search", "url2": "oshino@temariyakkyoku.com" }, "geometry": { "type": "Point", "coordinates": [ 136.6118914, 36.5426253 ] } }
+]
+}
