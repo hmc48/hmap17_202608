@@ -3,6 +3,6 @@
 "name": "geo_17_短期入所療養介護（介護医療院）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "介護医療院　恵寿鳩ヶ丘【短期入所療養介護（介護医療院）】石川県鳳珠郡穴水町麦ケ浦15、39番８", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=17B1700019-00&ServiceCd=551&Type=search", "url2": "http://www.keiju.co.jp/hato/" }, "geometry": { "type": "Point", "coordinates": [ 136.9205636, 37.272404 ] } }
+{ "type": "Feature", "properties": { "内容": "介護医療院　恵寿鳩ヶ丘【短期入所療養介護（介護医療院）】石川県鳳珠郡穴水町麦ケ浦15、39番８", "url2": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=17B1700019-00&ServiceCd=551&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 136.9205636, 37.272404 ] } }
 ]
 }
