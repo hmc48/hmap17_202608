@@ -3,8 +3,8 @@
 "name": "geo_17_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ボニュール平和苑【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】平和町3丁目8番1号ボニュール平和苑", "url2": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1770104519-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 136.6637983, 36.541207 ] } },
-{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅おれんじハウス【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】石川県小松市園町ニ155番地1", "url2": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1770300984-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 136.464149062073432, 36.404853882613217 ] } },
-{ "type": "Feature", "properties": { "内容": "メープル【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】石川県河北郡津幡町太田は３７番地", "url2": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1771400643-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 136.718212799999947, 36.6560528 ] } }
+{ "type": "Feature", "properties": { "内容": "ボニュール平和苑【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】平和町3丁目8番1号ボニュール平和苑", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1770104519-00&ServiceCd=&Type=search", "url2": "https://kihoukai.jp" }, "geometry": { "type": "Point", "coordinates": [ 136.6637983, 36.541207 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅おれんじハウス【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】石川県小松市園町ニ155番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1770300984-00&ServiceCd=&Type=search", "url2": "https://tayakai.or.jp/care/orangehouse/" }, "geometry": { "type": "Point", "coordinates": [ 136.464149062073432, 36.404853882613217 ] } },
+{ "type": "Feature", "properties": { "内容": "メープル【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】石川県河北郡津幡町太田は３７番地", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1771400643-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 136.718212799999947, 36.6560528 ] } }
 ]
 }

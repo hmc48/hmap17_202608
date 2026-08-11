@@ -3,6 +3,6 @@
 "name": "geo_17_短期入所療養介護(療養病床を有する病院等）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "田谷泌尿器科医院【短期入所療養介護(療養病床を有する病院等）】石川県小松市園町ニ29-1", "url2": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1710311307-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 136.463736419156362, 36.404769147218566 ] } }
+{ "type": "Feature", "properties": { "内容": "田谷泌尿器科医院【短期入所療養介護(療養病床を有する病院等）】石川県小松市園町ニ29-1", "url": "https://www.kaigokensaku.mhlw.go.jp/17/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1710311307-00&ServiceCd=&Type=search", "url2": "https://tayakai.or.jp/clinic/shortstay/" }, "geometry": { "type": "Point", "coordinates": [ 136.463736419156362, 36.404769147218566 ] } }
 ]
 }
